@@ -1,1 +1,2 @@
-# Hackaton_TED
+# Hackaton
+for TED Talk project Hackaton
